@@ -1,6 +1,8 @@
 import random
 
 def main():
+    print('To use the roller, just input the number of sides that you want. No decimals. If you want to exit, just type "exit"')
+    
     is_done = False
   
     while is_done == False:
